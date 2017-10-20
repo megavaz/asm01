@@ -1,0 +1,9 @@
+# Object files
+*.o
+
+# Output program
+a.out
+
+# Vim editor templorary files
+*~
+*.swp
